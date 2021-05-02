@@ -1,0 +1,7 @@
+{
+  "phone_list": ["alertnumber1", "alertnumber2"],
+  "origin_number": "originating number",
+  "twillio_url": "Your  twillio account url",
+  "twillio_api_token": "Twillio api token",
+  "rpc_url": "url for your rpc node"
+}
